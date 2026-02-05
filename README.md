@@ -4,7 +4,7 @@
     </a>
   <h3 align="center">GSAP Workshop (Starter)</h3>
 </div>
-- **This is my journey in learning GSAP animations**.
+- [**This is my journey in learning GSAP animations**.]
 
 ##  <br /> 📋 <a name="table">Table of Contents</a>
 
