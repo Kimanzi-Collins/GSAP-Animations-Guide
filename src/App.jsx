@@ -5,6 +5,7 @@ import {
   GsapFromTo,
   GsapScrollTrigger,
   GsapStagger,
+  GsapSvg,
   GsapText,
   GsapTimeline,
   GsapTo,
@@ -23,6 +24,7 @@ const App = () => {
           <Route path="/gsapstagger" element={<GsapStagger />} />
           <Route path="/gsapscrolltrigger" element={<GsapScrollTrigger />} />
           <Route path="/gsaptext" element={<GsapText />} />
+          <Route path="/gsapsvg" element={<GsapSvg />} />
           <Route path="/" element={<Home />} />
         </Routes>
       </Router>
