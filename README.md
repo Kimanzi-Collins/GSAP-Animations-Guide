@@ -5,6 +5,7 @@
   <h3 align="center">GSAP Workshop (Starter)</h3>
 </div>
 - This is my journey in learning GSAP animations.
+- Please don't forget to give it a star ⭐
 
 ##  <br /> 📋 <a name="table">Table of Contents</a>
 
